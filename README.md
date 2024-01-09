@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/img/netflix-preview)
+[![Product Name Screen Shot][product-screenshot]]![Preview](./img/netflix-preview.png?raw=true)
 
 
 ## Building Netflix from Scratch Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components (10 Hour Tutorial Here: https://www.youtube.com/watch?v=x_EEwGe-a9o)
